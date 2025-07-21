@@ -1,14 +1,16 @@
 # Projeto Git
 
-Este projeto foi criado com o objetivo de aprender os principais comandos do Git e como subir um repositório local para o GitHub.
+Este repositório foi criado com o objetivo de aprender e praticar os principais comandos do Git, bem como o processo de subir um repositório local para o GitHub.
 
-## O que foi aprendido
+## 📚 Aprendizados
 
-- Iniciar um repositório Git (`git init`)
-- Fazer commits (`git add`, `git status`, `git commit`)
-- Conectar com repositório remoto (`git remote add origin`)
-- Subir para o GitHub (`git push`)
+- Inicializar um repositório com `git init`
+- Adicionar e verificar alterações com `git add` e `git status`
+- Criar commits com `git commit`
+- Conectar ao GitHub com `git remote add origin`
+- Enviar alterações com `git push`
 
-## Autor
+## 👤 Autor
 
-Lucas Figueiredo.
+Lucas Figueiredo
+[GitHub](https://github.com/lucas-figueiredo01)
